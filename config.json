@@ -20,6 +20,15 @@
       "type": "input",
       "note": "请输入图片地址"
     },
+    {
+      "name": "pageBgColor",
+      "label": "网页背景色",
+      "group": "颜色",
+      "value": "#ffffff",
+      "type": "input",
+      "card": "color",
+      "note": "颜色字符串:（如：#EEEEEE、rgba(255, 255, 255, 0.9)）"
+    },
       {
         "name": "rss",
         "label": "RSS",
